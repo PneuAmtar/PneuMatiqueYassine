@@ -247,3 +247,18 @@ section {
     font-size: 10px;
   }
 }
+@media (max-width:374px){
+  .footer{
+    padding: 6px 10px;
+  }
+}
+@media (max-width:354px){
+  .footer{
+    padding: 3px 5px;
+    font-size: 7px;
+  }
+  header{
+    padding: 3px 5px;
+    font-size: 7px;
+  }
+}
