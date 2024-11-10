@@ -25,7 +25,9 @@ header {
   font-weight: 700;
   font-size: 1.8em;
 }
-
+.logo span{
+  color: black;
+}
 .navigation a {
   color: red;
   text-decoration: none;
